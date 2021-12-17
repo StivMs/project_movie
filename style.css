@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+
+.titel {
+    color: aliceblue;
+    font-size: 35px;
+    background-color: black;
+}
+
+#about{
+    background-color: cadetblue;
+    width: 200px;
+    height: 150px;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.power{
+    width: 140px;
+    height: 30px;
+    margin: 20px;
+}
